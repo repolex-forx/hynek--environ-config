@@ -1,0 +1,11 @@
+{
+  "org": "hynek",
+  "repo": "environ-config",
+  "versions": [
+    {
+      "commit": "dfbfdc910e0b80bb22752571619b7ad0e18379b9",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:30:23.587962+00:00"
+    }
+  ]
+}
