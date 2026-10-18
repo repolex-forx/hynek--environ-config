@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/hynek/environ-config/commit/dfbfdc910e0b80bb22752571619b7ad0e18379b9",
       "git:hexsha": "dfbfdc910e0b80bb22752571619b7ad0e18379b9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/hynek/environ-config/commit/84cca5140eb9af8ce1b2334e4cc3b0b7a487332a",
